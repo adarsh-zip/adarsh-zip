@@ -10,7 +10,9 @@
   </a>
 </p>
 
-<img src="https://i.imgflip.com/auzoop.gif" width="500">
+<p align="center">
+  <img src="https://i.imgflip.com/auzoop.gif" alt="Banner GIF">
+</p>
 
 
 ## 📌 About Me
