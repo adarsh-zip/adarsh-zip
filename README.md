@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%E3%80%90%EF%BB%BF%EF%BC%A1%EF%BC%A4%EF%BC%A1%EF%BC%B2%EF%BC%B3%EF%BC%A8%E3%80%80%EF%BC%B2%EF%BC%A1%EF%BC%AA%E3%80%91&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CSE%20Student&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%E3%80%90%EF%BB%BF%EF%BC%A1%EF%BC%A4%EF%BC%A1%EF%BC%B2%EF%BC%B3%EF%BC%A8%E3%80%80%EF%BC%B2%EF%BC%A1%EF%BC%AA%E3%80%91&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CSE%20Student&descSize=18&descAlignY=55&textBg=false" width="1000" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Simplicity%20is%20the%20soul%20of%20efficiency." alt="Typing introduction" />
