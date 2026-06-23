@@ -10,12 +10,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://imgflip.com/gif/auzoop">
-    <img src="https://imgflip.com/embed/auzoop" alt="adarsh-zip's" />
-  </a>
-</p>
-
+<img src="https://i.imgflip.com/auzoop.gif" width="500">
 
 
 ## 📌 About Me
