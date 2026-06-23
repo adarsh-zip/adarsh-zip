@@ -11,9 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgflip.com/auzoop.gif" alt="Banner GIF">
+  <img src="https://i.imgflip.com/auzoop.gif" width="1000" alt="Banner">
 </p>
-
 
 ## 📌 About Me
 - 🎓 𝐁.𝐓𝐞𝐜𝐡 𝐂𝐒𝐄 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐭 𝐒𝐑𝐌 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐀𝐏
